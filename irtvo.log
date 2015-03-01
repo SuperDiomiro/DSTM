@@ -1732,3 +1732,227 @@
 2015-03-01 08:49:52.6075|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
 2015-03-01 08:49:57.6279|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
 2015-03-01 08:49:58.6325|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-03-01 08:52:19.9218|INFO|iRTVO.App|iRTVO Build 1.3.0.39317 startup
+2015-03-01 08:52:19.9728|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 08:52:19.9728|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 08:52:20.1049|INFO|iRTVO.MainWindow|iRTVO starting
+2015-03-01 08:52:20.6126|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 08:52:20.6126|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 08:52:20.6126|INFO|iRTVO.CfgFile|Loading themes\SRD\settings.ini
+2015-03-01 08:52:20.6236|INFO|iRTVO.CfgFile|Including themes\SRD\buttons.ini
+2015-03-01 08:52:20.6236|INFO|iRTVO.CfgFile|Including themes\SRD\images.ini
+2015-03-01 08:52:20.6236|INFO|iRTVO.CfgFile|Including themes\SRD\videos.ini
+2015-03-01 08:52:20.6236|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare1.ini
+2015-03-01 08:52:20.6236|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare2.ini
+2015-03-01 08:52:20.6456|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver1.ini
+2015-03-01 08:52:20.6456|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver2.ini
+2015-03-01 08:52:20.6456|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-fastestlap.ini
+2015-03-01 08:52:20.6456|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-grid.ini
+2015-03-01 08:52:20.6566|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-replay.ini
+2015-03-01 08:52:20.6566|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-results.ini
+2015-03-01 08:52:20.6566|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-status.ini
+2015-03-01 08:52:20.6566|INFO|iRTVO.CfgFile|Including themes\SRD\triggers.ini
+2015-03-01 08:52:20.6566|INFO|iRTVO.CfgFile|Including themes\SRD\panels.ini
+2015-03-01 08:52:20.6716|INFO|iRTVO.CfgFile|Including themes\SRD\tickers.ini
+2015-03-01 08:52:20.6716|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\tracks.ini
+2015-03-01 08:52:20.6886|INFO|iRTVO.Caching.FontCache|Added 'Roboto' to FontCache
+2015-03-01 08:52:20.7287|INFO|iRTVO.Caching.FontCache|Added 'Allstar4' to FontCache
+2015-03-01 08:52:25.7400|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-03-01 08:52:25.7630|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-03-01 08:52:26.4325|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-03-01 08:52:27.6633|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6713|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6713|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6713|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6713|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6863|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6863|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.6863|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 08:52:27.7163|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 81,205
+2015-03-01 08:52:27.7393|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-03-01 08:52:28.5339|INFO|iRTVO.MainWindow|Adding cam Nose
+2015-03-01 08:52:28.5339|INFO|iRTVO.MainWindow|Adding cam Gearbox
+2015-03-01 08:52:28.5339|INFO|iRTVO.MainWindow|Adding cam Roll Bar
+2015-03-01 08:52:28.5339|INFO|iRTVO.MainWindow|Adding cam LF Susp
+2015-03-01 08:52:28.5459|INFO|iRTVO.MainWindow|Adding cam LR Susp
+2015-03-01 08:52:28.5459|INFO|iRTVO.MainWindow|Adding cam Gyro
+2015-03-01 08:52:28.5459|INFO|iRTVO.MainWindow|Adding cam RF Susp
+2015-03-01 08:52:28.5459|INFO|iRTVO.MainWindow|Adding cam RR Susp
+2015-03-01 08:52:28.5459|INFO|iRTVO.MainWindow|Adding cam Cockpit
+2015-03-01 08:52:28.5619|INFO|iRTVO.MainWindow|Adding cam Blimp
+2015-03-01 08:52:28.5619|INFO|iRTVO.MainWindow|Adding cam Chopper
+2015-03-01 08:52:28.5619|INFO|iRTVO.MainWindow|Adding cam Chopper2
+2015-03-01 08:52:28.5619|INFO|iRTVO.MainWindow|Adding cam Far Chase
+2015-03-01 08:52:28.5619|INFO|iRTVO.MainWindow|Adding cam ScrShot1
+2015-03-01 08:52:28.5769|INFO|iRTVO.MainWindow|Adding cam ScrShot2
+2015-03-01 08:52:28.5769|INFO|iRTVO.MainWindow|Adding cam Pit Lane
+2015-03-01 08:52:28.5769|INFO|iRTVO.MainWindow|Adding cam Pit Lane 2
+2015-03-01 08:52:28.5769|INFO|iRTVO.MainWindow|Adding cam Scenic
+2015-03-01 08:52:28.5769|INFO|iRTVO.MainWindow|Adding cam GrandAM
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam Indy2013
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam TV1
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam TV2
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam TV3
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam StaticTV
+2015-03-01 08:52:28.5919|INFO|iRTVO.MainWindow|Adding cam DynamicTV
+2015-03-01 08:52:28.6089|INFO|iRTVO.MainWindow|Adding cam RandomTV
+2015-03-01 08:52:28.7790|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:52:41.1703|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:52:52.3268|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-03-01 08:52:55.6740|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 08:53:00.6943|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-03-01 08:53:05.9238|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:06.2220|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:13.1717|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:14.5496|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:28.9042|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:48.9685|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:50.5916|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:50.7827|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 08:53:52.0814|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-03-01 10:57:02.2219|INFO|iRTVO.App|iRTVO Build 1.3.0.39317 startup
+2015-03-01 10:57:02.2839|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 10:57:02.2949|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 10:57:02.4350|INFO|iRTVO.MainWindow|iRTVO starting
+2015-03-01 10:57:02.9424|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 10:57:02.9424|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 10:57:02.9514|INFO|iRTVO.CfgFile|Loading themes\SRD\settings.ini
+2015-03-01 10:57:02.9514|INFO|iRTVO.CfgFile|Including themes\SRD\buttons.ini
+2015-03-01 10:57:02.9784|INFO|iRTVO.CfgFile|Including themes\SRD\images.ini
+2015-03-01 10:57:02.9824|INFO|iRTVO.CfgFile|Including themes\SRD\videos.ini
+2015-03-01 10:57:02.9824|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare1.ini
+2015-03-01 10:57:03.0204|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare2.ini
+2015-03-01 10:57:03.0434|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver1.ini
+2015-03-01 10:57:03.0464|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver2.ini
+2015-03-01 10:57:03.0605|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-fastestlap.ini
+2015-03-01 10:57:03.0605|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-grid.ini
+2015-03-01 10:57:03.0865|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-replay.ini
+2015-03-01 10:57:03.0865|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-results.ini
+2015-03-01 10:57:03.0925|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-status.ini
+2015-03-01 10:57:03.0925|INFO|iRTVO.CfgFile|Including themes\SRD\triggers.ini
+2015-03-01 10:57:03.1165|INFO|iRTVO.CfgFile|Including themes\SRD\panels.ini
+2015-03-01 10:57:03.1265|INFO|iRTVO.CfgFile|Including themes\SRD\tickers.ini
+2015-03-01 10:57:03.1445|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\tracks.ini
+2015-03-01 10:57:03.1645|INFO|iRTVO.Caching.FontCache|Added 'Roboto' to FontCache
+2015-03-01 10:57:03.2066|INFO|iRTVO.Caching.FontCache|Added 'Allstar4' to FontCache
+2015-03-01 10:57:08.8713|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-03-01 10:57:08.8974|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-03-01 10:57:09.5378|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-03-01 10:57:10.7586|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7756|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7806|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7806|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7806|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7806|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7956|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.7956|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:57:10.8256|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 80,701
+2015-03-01 10:57:10.8286|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-03-01 10:57:10.9187|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:11.6342|INFO|iRTVO.MainWindow|Adding cam Nose
+2015-03-01 10:57:11.6402|INFO|iRTVO.MainWindow|Adding cam Gearbox
+2015-03-01 10:57:11.6402|INFO|iRTVO.MainWindow|Adding cam Roll Bar
+2015-03-01 10:57:11.6402|INFO|iRTVO.MainWindow|Adding cam LF Susp
+2015-03-01 10:57:11.6402|INFO|iRTVO.MainWindow|Adding cam LR Susp
+2015-03-01 10:57:11.6402|INFO|iRTVO.MainWindow|Adding cam Gyro
+2015-03-01 10:57:11.6572|INFO|iRTVO.MainWindow|Adding cam RF Susp
+2015-03-01 10:57:11.6572|INFO|iRTVO.MainWindow|Adding cam RR Susp
+2015-03-01 10:57:11.6572|INFO|iRTVO.MainWindow|Adding cam Cockpit
+2015-03-01 10:57:11.6572|INFO|iRTVO.MainWindow|Adding cam Blimp
+2015-03-01 10:57:11.6712|INFO|iRTVO.MainWindow|Adding cam Chopper
+2015-03-01 10:57:11.6712|INFO|iRTVO.MainWindow|Adding cam Chopper2
+2015-03-01 10:57:11.6712|INFO|iRTVO.MainWindow|Adding cam Far Chase
+2015-03-01 10:57:11.6712|INFO|iRTVO.MainWindow|Adding cam ScrShot1
+2015-03-01 10:57:11.6712|INFO|iRTVO.MainWindow|Adding cam ScrShot2
+2015-03-01 10:57:11.6892|INFO|iRTVO.MainWindow|Adding cam Pit Lane
+2015-03-01 10:57:11.6892|INFO|iRTVO.MainWindow|Adding cam Pit Lane 2
+2015-03-01 10:57:11.6892|INFO|iRTVO.MainWindow|Adding cam Scenic
+2015-03-01 10:57:11.6892|INFO|iRTVO.MainWindow|Adding cam GrandAM
+2015-03-01 10:57:11.7012|INFO|iRTVO.MainWindow|Adding cam Indy2013
+2015-03-01 10:57:11.7012|INFO|iRTVO.MainWindow|Adding cam TV1
+2015-03-01 10:57:11.7012|INFO|iRTVO.MainWindow|Adding cam TV2
+2015-03-01 10:57:11.7012|INFO|iRTVO.MainWindow|Adding cam TV3
+2015-03-01 10:57:11.7012|INFO|iRTVO.MainWindow|Adding cam StaticTV
+2015-03-01 10:57:11.7172|INFO|iRTVO.MainWindow|Adding cam DynamicTV
+2015-03-01 10:57:11.7172|INFO|iRTVO.MainWindow|Adding cam RandomTV
+2015-03-01 10:57:14.5801|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-03-01 10:57:15.4257|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:17.9384|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:18.6579|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-03-01 10:57:22.5024|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:24.4988|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:24.4988|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:24.4988|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-03-01 10:57:26.5321|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:29.2349|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:33.9060|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:35.4241|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:41.5832|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:57:47.2489|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-03-01 10:57:48.9601|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-03-01 10:58:17.7393|INFO|iRTVO.App|iRTVO Build 1.3.0.39317 startup
+2015-03-01 10:58:17.7953|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 10:58:17.8253|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\options.ini
+2015-03-01 10:58:17.9494|INFO|iRTVO.MainWindow|iRTVO starting
+2015-03-01 10:58:18.5428|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 10:58:18.5458|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-03-01 10:58:18.5458|INFO|iRTVO.CfgFile|Loading themes\SRD\settings.ini
+2015-03-01 10:58:18.5458|INFO|iRTVO.CfgFile|Including themes\SRD\buttons.ini
+2015-03-01 10:58:18.5458|INFO|iRTVO.CfgFile|Including themes\SRD\images.ini
+2015-03-01 10:58:18.5618|INFO|iRTVO.CfgFile|Including themes\SRD\videos.ini
+2015-03-01 10:58:18.5618|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare1.ini
+2015-03-01 10:58:18.5618|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-compare2.ini
+2015-03-01 10:58:18.5809|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver1.ini
+2015-03-01 10:58:18.5809|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-driver2.ini
+2015-03-01 10:58:18.5809|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-fastestlap.ini
+2015-03-01 10:58:18.5919|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-grid.ini
+2015-03-01 10:58:18.5919|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-replay.ini
+2015-03-01 10:58:18.5919|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-results.ini
+2015-03-01 10:58:18.5919|INFO|iRTVO.CfgFile|Including themes\SRD\overlay-status.ini
+2015-03-01 10:58:18.5919|INFO|iRTVO.CfgFile|Including themes\SRD\triggers.ini
+2015-03-01 10:58:18.6089|INFO|iRTVO.CfgFile|Including themes\SRD\panels.ini
+2015-03-01 10:58:18.6089|INFO|iRTVO.CfgFile|Including themes\SRD\tickers.ini
+2015-03-01 10:58:18.6089|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\tracks.ini
+2015-03-01 10:58:18.6319|INFO|iRTVO.Caching.FontCache|Added 'Roboto' to FontCache
+2015-03-01 10:58:18.6749|INFO|iRTVO.Caching.FontCache|Added 'Allstar4' to FontCache
+2015-03-01 10:58:24.3547|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-03-01 10:58:24.3827|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-03-01 10:58:25.0602|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-03-01 10:58:26.2620|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2650|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2650|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2650|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2800|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2800|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2800|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.2800|INFO|iRTVO.CfgFile|Loading D:\GitHub\iRTVO-Overlays\DSTM\themes\SRD\cars.ini
+2015-03-01 10:58:26.3170|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 80,701
+2015-03-01 10:58:26.3580|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-03-01 10:58:27.1125|INFO|iRTVO.MainWindow|Adding cam Nose
+2015-03-01 10:58:27.1125|INFO|iRTVO.MainWindow|Adding cam Gearbox
+2015-03-01 10:58:27.1125|INFO|iRTVO.MainWindow|Adding cam Roll Bar
+2015-03-01 10:58:27.1236|INFO|iRTVO.MainWindow|Adding cam LF Susp
+2015-03-01 10:58:27.1236|INFO|iRTVO.MainWindow|Adding cam LR Susp
+2015-03-01 10:58:27.1236|INFO|iRTVO.MainWindow|Adding cam Gyro
+2015-03-01 10:58:27.1236|INFO|iRTVO.MainWindow|Adding cam RF Susp
+2015-03-01 10:58:27.1236|INFO|iRTVO.MainWindow|Adding cam RR Susp
+2015-03-01 10:58:27.1386|INFO|iRTVO.MainWindow|Adding cam Cockpit
+2015-03-01 10:58:27.1386|INFO|iRTVO.MainWindow|Adding cam Blimp
+2015-03-01 10:58:27.1386|INFO|iRTVO.MainWindow|Adding cam Chopper
+2015-03-01 10:58:27.1386|INFO|iRTVO.MainWindow|Adding cam Chopper2
+2015-03-01 10:58:27.1386|INFO|iRTVO.MainWindow|Adding cam Far Chase
+2015-03-01 10:58:27.1566|INFO|iRTVO.MainWindow|Adding cam ScrShot1
+2015-03-01 10:58:27.1566|INFO|iRTVO.MainWindow|Adding cam ScrShot2
+2015-03-01 10:58:27.1566|INFO|iRTVO.MainWindow|Adding cam Pit Lane
+2015-03-01 10:58:27.1566|INFO|iRTVO.MainWindow|Adding cam Pit Lane 2
+2015-03-01 10:58:27.1566|INFO|iRTVO.MainWindow|Adding cam Scenic
+2015-03-01 10:58:27.1736|INFO|iRTVO.MainWindow|Adding cam GrandAM
+2015-03-01 10:58:27.1736|INFO|iRTVO.MainWindow|Adding cam Indy2013
+2015-03-01 10:58:27.1736|INFO|iRTVO.MainWindow|Adding cam TV1
+2015-03-01 10:58:27.1736|INFO|iRTVO.MainWindow|Adding cam TV2
+2015-03-01 10:58:27.1856|INFO|iRTVO.MainWindow|Adding cam TV3
+2015-03-01 10:58:27.1856|INFO|iRTVO.MainWindow|Adding cam StaticTV
+2015-03-01 10:58:27.1856|INFO|iRTVO.MainWindow|Adding cam DynamicTV
+2015-03-01 10:58:27.1856|INFO|iRTVO.MainWindow|Adding cam RandomTV
+2015-03-01 10:58:28.6236|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-03-01 10:58:38.5302|INFO|iRTVO.MainWindow|iRTVO Closing
