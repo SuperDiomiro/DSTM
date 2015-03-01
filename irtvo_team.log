@@ -1,0 +1,66 @@
+2014-12-31 13:41:59.1232|INFO|iRTVO.App|iRTVO Build 1.3.0.24410 startup
+2014-12-31 13:41:59.1552|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2014-12-31 13:41:59.1552|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2014-12-31 13:41:59.2532|INFO|iRTVO.MainWindow|iRTVO starting
+2014-12-31 13:41:59.4563|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2014-12-31 13:41:59.4563|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2014-12-31 13:41:59.4563|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2014-12-31 13:41:59.4653|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2014-12-31 13:41:59.5223|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2014-12-31 13:42:00.1483|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2014-12-31 13:42:02.3814|INFO|iRTVO.MainWindow|Trigger: Processing init
+2014-12-31 13:42:03.3365|INFO|iRTVO.MainWindow|Connected to simulation.
+2014-12-31 13:42:04.4625|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2014-12-31 13:42:04.4625|INFO|iRTVO.iRacingAPI|CAMSWITCH BY SIM CAM 10 DRiver 0
+2014-12-31 13:42:09.4958|INFO|iRTVO.WebTiming.webTiming|postData
+2014-12-31 13:42:09.4958|INFO|iRTVO.WebTiming.webTiming|postData - sending
+2014-12-31 13:42:09.8489|INFO|iRTVO.WebTiming.webTiming|postData - sent
+
+{"timestamp":63555630129495,"trackname":"Michigan International Speedway","sessiontype":"none","sessionstate":"racing","timeremaining":4139.583,"currentlap":0,"totallaps":0,"sessionflag":"white","cautions":0,"cautionlaps":0,"fastestlap":"-2147483648:n. def.","fastestdriver":"","fastestlapnum":0,"drivers":[],"tracker":{"drivers":{},"trackId":124}}
+
+
+2014-12-31 13:42:16.7192|INFO|iRTVO.WebTiming.webTiming|postData
+2014-12-31 13:42:16.7192|INFO|iRTVO.WebTiming.webTiming|postData - sending
+2014-12-31 13:42:16.8352|INFO|iRTVO.WebTiming.webTiming|postData - sent
+
+{"timestamp":63555630136719,"trackname":"Michigan International Speedway","sessiontype":"none","sessionstate":"racing","timeremaining":4132.35,"currentlap":0,"totallaps":0,"sessionflag":"white","cautions":0,"cautionlaps":0,"fastestlap":"-2147483648:n. def.","fastestdriver":"","fastestlapnum":0,"drivers":[],"tracker":{"drivers":{},"trackId":124}}
+
+
+2014-12-31 13:42:24.0047|INFO|iRTVO.WebTiming.webTiming|postData
+2014-12-31 13:42:24.0047|INFO|iRTVO.WebTiming.webTiming|postData - sending
+2014-12-31 13:42:24.1217|INFO|iRTVO.WebTiming.webTiming|postData - sent
+
+{"timestamp":63555630144004,"trackname":"Michigan International Speedway","sessiontype":"none","sessionstate":"racing","timeremaining":4125.067,"currentlap":0,"totallaps":0,"sessionflag":"white","cautions":0,"cautionlaps":0,"fastestlap":"-2147483648:n. def.","fastestdriver":"","fastestlapnum":0,"drivers":[],"tracker":{"drivers":{},"trackId":124}}
+
+
+2014-12-31 13:42:25.5247|INFO|iRTVO.MainWindow|iRTVO Closing

@@ -1,0 +1,79 @@
+2014-12-31 13:35:24.4087|INFO|iRTVO.App|iRTVO Build 1.3.0.24410 startup
+2014-12-31 13:35:24.4417|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2014-12-31 13:35:24.4417|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2014-12-31 13:35:24.5437|INFO|iRTVO.MainWindow|iRTVO starting
+2014-12-31 13:35:24.7497|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2014-12-31 13:35:24.7497|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2014-12-31 13:35:24.7497|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2014-12-31 13:35:24.7517|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2014-12-31 13:35:24.8177|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2014-12-31 13:35:25.4687|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2014-12-31 13:35:28.2589|INFO|iRTVO.MainWindow|Trigger: Processing init
+2014-12-31 13:35:29.1059|INFO|iRTVO.MainWindow|Connected to simulation.
+2014-12-31 13:35:30.2530|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2014-12-31 13:35:30.2660|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2014-12-31 13:35:30.2740|INFO|iRTVO.iRacingAPI|CAMSWITCH BY SIM CAM 17 DRiver 4
+2014-12-31 13:35:34.9733|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2014-12-31 13:35:35.4223|INFO|iRTVO.WebTiming.webTiming|postData
+2014-12-31 13:35:35.4223|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Vincent Pienaar
+2014-12-31 13:35:35.4223|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2014-12-31 13:35:35.4223|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:35.4223|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Marcos Rosello Barber
+2014-12-31 13:35:35.4223|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:35.4373|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = John Herbert
+2014-12-31 13:35:35.4373|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:35.4373|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Xavier Rodrigues
+2014-12-31 13:35:35.4373|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:35.4373|INFO|iRTVO.WebTiming.webTiming|postData - sending
+2014-12-31 13:35:35.7613|INFO|iRTVO.WebTiming.webTiming|postData - sent
+
+{"timestamp":63555629735422,"trackname":"Circuit of the Americas Grand Prix","sessiontype":"none","sessionstate":"racing","timeremaining":1255.2998,"currentlap":0,"totallaps":0,"sessionflag":"white","cautions":0,"cautionlaps":0,"fastestlap":"2:41,184","fastestdriver":"Vincent Pienaar","fastestlapnum":8,"drivers":[{"position":"1","number":"64","name":"Vincent Pienaar","gap":"-.--","interval":"2:41,184","previouslap":"-.--","fastestlap":"2:41,184","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"1","classgap":"-.--","classinterval":"-.--"},{"position":"2","number":"73","name":"Marcos Rosello Barber","gap":"1,585","interval":"1,585","previouslap":"2:44,471","fastestlap":"2:42,769","pit":"0","lapsled":"0","lap":"6","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"2","classgap":"-.--","classinterval":"-.--"},{"position":"3","number":"16","name":"John Herbert","gap":"2,050","interval":"0,465","previouslap":"-.--","fastestlap":"2:43,234","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"3","classgap":"-.--","classinterval":"-.--"},{"position":"4","number":"4","name":"Xavier Rodrigues","gap":"2:41,184","interval":"2:43,234","previouslap":"-.--","fastestlap":"-.--","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"4","classgap":"-.--","classinterval":"-.--"}],"tracker":{"drivers":{"73":0.0626878738,"4":0.324635267},"trackId":229}}
+
+
+2014-12-31 13:35:41.3536|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|postData
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Vincent Pienaar
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Marcos Rosello Barber
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = John Herbert
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: name = Xavier Rodrigues
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|webtimingDriver: car = Skip Barber Formula 2000
+2014-12-31 13:35:42.5717|INFO|iRTVO.WebTiming.webTiming|postData - sending
+2014-12-31 13:35:42.6787|INFO|iRTVO.WebTiming.webTiming|postData - sent
+
+{"timestamp":63555629742571,"trackname":"Circuit of the Americas Grand Prix","sessiontype":"none","sessionstate":"racing","timeremaining":1248.15,"currentlap":0,"totallaps":0,"sessionflag":"white","cautions":0,"cautionlaps":0,"fastestlap":"2:41,184","fastestdriver":"Vincent Pienaar","fastestlapnum":8,"drivers":[{"position":"1","number":"64","name":"Vincent Pienaar","gap":"-.--","interval":"2:41,184","previouslap":"-.--","fastestlap":"2:41,184","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"1","classgap":"-.--","classinterval":"-.--"},{"position":"2","number":"73","name":"Marcos Rosello Barber","gap":"1,585","interval":"1,585","previouslap":"2:44,471","fastestlap":"2:42,769","pit":"0","lapsled":"0","lap":"6","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"2","classgap":"-.--","classinterval":"-.--"},{"position":"3","number":"16","name":"John Herbert","gap":"2,050","interval":"0,465","previouslap":"-.--","fastestlap":"2:43,234","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"3","classgap":"-.--","classinterval":"-.--"},{"position":"4","number":"4","name":"Xavier Rodrigues","gap":"2:41,184","interval":"2:43,234","previouslap":"-.--","fastestlap":"-.--","pit":"0","lapsled":"0","lap":"0","car":"Skip Barber Formula 2000","retiredString":"running","retired":false,"sectors":["-.--","-.--"],"classname":"1","classid":"0","classposition":"4","classgap":"-.--","classinterval":"-.--"}],"tracker":{"drivers":{"73":0.0840039253,"4":0.3602972},"trackId":229}}
+
+
+2014-12-31 13:35:46.0649|INFO|iRTVO.MainWindow|iRTVO Closing

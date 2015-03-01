@@ -1,0 +1,790 @@
+2015-01-01 12:42:15.9927|INFO|iRTVO.App|iRTVO Build 1.3.0.22863 startup
+2015-01-01 12:42:16.0267|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:42:16.0267|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:42:16.1327|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-01 12:42:16.4277|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:42:16.4277|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-01 12:42:16.4277|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-01 12:42:16.4327|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-01 12:42:16.4927|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-01 12:42:17.0817|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-01 12:42:20.0589|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-01 12:42:20.8649|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-01-01 12:42:21.9800|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 12:42:21.9800|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 12:42:21.9930|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 97,064
+2015-01-01 12:42:21.9930|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-01 12:42:23.6951|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 12:42:26.2883|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-01 12:42:26.2883|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-01 12:42:27.8793|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 12:42:29.0994|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-01 12:42:43.2022|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-01 12:43:20.0653|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-01 12:43:50.2061|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-01 12:43:55.0873|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-01 12:44:25.5861|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-01 12:44:55.7408|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-01 12:44:57.6279|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-01 12:45:34.0700|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-01 12:46:28.7581|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-01 12:53:09.7531|INFO|iRTVO.App|iRTVO Build 1.3.0.22863 startup
+2015-01-01 12:53:09.7801|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:53:09.7801|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:53:09.8831|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-01 12:53:10.1381|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:53:10.1381|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-01 12:53:10.1391|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-01 12:53:10.1991|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-01 12:53:10.6901|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-01 12:53:13.3313|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-01 12:53:14.1813|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:53:23.9009|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-01 12:55:12.3841|INFO|iRTVO.App|iRTVO Build 1.3.0.22863 startup
+2015-01-01 12:55:12.4121|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:55:12.4121|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 12:55:12.5121|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-01 12:55:12.7101|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:55:12.7101|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-01 12:55:12.7101|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-01 12:55:12.7701|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-01 12:55:13.2551|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-01 12:55:14.7542|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-01 12:55:15.5973|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:55:17.0143|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-01 12:55:17.0143|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-01 12:55:46.4990|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:56:17.1698|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:56:47.2465|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:57:18.1653|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:57:48.2510|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:58:19.1458|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:58:49.9605|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:59:20.5943|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-01 12:59:22.6414|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-01 22:06:59.3517|INFO|iRTVO.App|iRTVO Build 1.3.0.22863 startup
+2015-01-01 22:06:59.3867|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 22:06:59.3867|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-01 22:06:59.4987|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-01 22:06:59.7447|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 22:06:59.7447|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-01 22:06:59.7447|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-01 22:06:59.7557|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-01 22:06:59.7557|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-01 22:06:59.7557|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-01 22:06:59.8167|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-01 22:07:00.5367|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-01 22:07:02.8999|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-01 22:07:03.7829|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-01-01 22:07:04.9580|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:04.9580|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:04.9580|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:04.9850|INFO|iRTVO.iRacingAPI|New fastest lap in Session 2 : 104,839
+2015-01-01 22:07:04.9850|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-01 22:07:04.9850|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-01 22:07:10.8743|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:10.8813|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:10.8813|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-01 22:07:53.1508|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-01 22:07:53.1508|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-01 22:08:05.9245|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-04 11:36:30.3770|INFO|iRTVO.App|iRTVO Build 1.3.0.20790 startup
+2015-01-04 11:36:30.4050|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 11:36:30.4050|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 11:36:30.5280|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-04 11:36:30.8330|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 11:36:30.8330|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 11:36:30.8330|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-04 11:36:30.8520|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-04 11:36:30.8520|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-04 11:36:30.8720|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-04 11:36:30.8730|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-04 11:36:30.8730|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-04 11:36:30.8730|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-04 11:36:30.8730|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-04 11:36:30.8730|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-04 11:36:30.8910|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-04 11:36:30.8910|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-04 11:36:30.8910|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-04 11:36:30.8910|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-04 11:36:30.9050|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-04 11:36:30.9200|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-04 11:36:30.9930|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-04 11:36:31.7281|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-04 11:36:36.0133|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-04 11:36:36.8224|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-01-04 11:36:37.6254|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-04 11:36:37.6254|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-04 11:36:37.9334|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:37.9334|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:37.9334|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:37.9584|INFO|iRTVO.iRacingAPI|New fastest lap in Session 1 : 90,931
+2015-01-04 11:36:38.2544|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 11:36:38.2544|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-04 11:36:38.2544|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 11:36:38.8165|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:36:40.1585|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:36:40.4836|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:36:44.2228|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:44.2298|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:44.2298|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 11:36:45.0268|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:36:48.0340|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:36:52.2172|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:37:38.7369|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:37:52.3997|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:37:55.3378|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:38:08.9076|INFO|iRTVO.MainWindow|Trigger: Processing flagWhite
+2015-01-04 11:38:19.6432|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:38:36.1422|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 11:38:54.9423|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 11:39:06.8279|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:09.5571|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:12.6193|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:13.2083|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:36.4086|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:38.5137|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:46.0642|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:52.6025|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:39:54.2856|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 11:39:54.2856|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:00.4290|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:08.1824|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:14.6268|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:15.1868|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:15.9279|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:15.9279|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 11:40:27.3865|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:38.3382|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:40:58.1683|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 11:41:04.6307|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 11:41:07.6988|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 11:41:14.8623|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 11:41:18.0724|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 11:41:26.2339|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:41:31.8152|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:41:43.4989|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 11:41:55.7896|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-04 13:36:22.8374|INFO|iRTVO.App|iRTVO Build 1.3.0.22204 startup
+2015-01-04 13:36:22.8684|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 13:36:22.8784|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 13:36:22.9924|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-04 13:36:23.2864|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 13:36:23.2864|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-04 13:36:23.2864|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-04 13:36:23.2994|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-04 13:36:23.3624|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-04 13:36:24.1444|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-04 13:36:27.0136|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-04 13:36:27.7947|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-01-04 13:36:28.7837|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-04 13:36:28.7837|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-04 13:36:28.9057|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 13:36:28.9057|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 3,402823E+38
+2015-01-04 13:36:28.9177|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 13:36:34.0450|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 13:36:36.4971|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:36:39.2113|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:36:42.4095|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:37:13.3443|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:38:04.2322|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:38:16.2969|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Taylor Symonds)
+2015-01-04 13:38:16.2969|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 13:38:16.2969|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 13:38:16.7609|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:38:34.1889|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:39:03.6056|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:39:06.0887|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:39:10.7070|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:39:53.5814|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:40:39.2190|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:40:47.5345|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:40:51.1107|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:41:42.5427|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 13:41:52.1962|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:42:08.2981|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Christopher J Sturgeon)
+2015-01-04 13:42:08.2981|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 13:42:08.2981|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 13:42:08.7802|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:42:29.8714|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:42:38.6379|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:42:59.8551|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:43:02.5992|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:45:12.8627|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:46:01.0644|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 13:46:47.1651|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:46:47.3061|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Taylor Symonds)
+2015-01-04 13:46:47.3061|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 13:46:47.3061|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 13:47:01.9839|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:47:31.4986|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:47:37.6760|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:47:38.5030|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:47:49.6617|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:47:52.7468|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:48:51.7642|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:49:08.8452|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:49:19.7328|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:49:39.9810|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:49:40.2170|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:49:44.4892|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:50:52.2561|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:51:19.3116|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 103,387
+2015-01-04 13:51:19.3546|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 13:51:23.6639|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:51:23.8309|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:51:27.4501|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:51:31.9114|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:51:40.1958|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:51:42.3100|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Christopher J Sturgeon)
+2015-01-04 13:51:42.3100|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 13:51:42.3100|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 13:52:02.3941|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 13:52:11.5046|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:53:01.7575|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:54:23.7692|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:56:33.4526|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:57:12.9939|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:57:33.9311|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:57:54.0202|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 13:59:06.3224|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 101,855
+2015-01-04 13:59:06.3274|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 13:59:10.1336|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 13:59:14.2338|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-04 14:02:46.5810|INFO|iRTVO.App|iRTVO Build 1.3.0.22204 startup
+2015-01-04 14:02:46.6030|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 14:02:46.6180|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 14:02:46.7220|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-04 14:02:46.9610|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 14:02:46.9610|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-04 14:02:46.9610|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-04 14:02:46.9750|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-04 14:02:46.9750|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-04 14:02:47.0360|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-04 14:02:47.7360|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-04 14:02:50.3502|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-04 14:02:51.1812|INFO|iRTVO.MainWindow|Connected to simulation.
+2015-01-04 14:02:52.3373|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:02:52.3373|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:02:52.3373|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:02:52.3463|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 3,402823E+38
+2015-01-04 14:02:52.3663|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:02:52.7953|WARN|iRTVO.Lists|Unkown column in optins.ini standingsgrid::columns ':'
+2015-01-04 14:02:52.7953|WARN|iRTVO.Lists|Valid Columns are: Driver.Name , Driver.Initials , Driver.Shortname , Driver.Club , Driver.SR , Driver.iRating , Driver.NumberPlate , Driver.NumberPlateInt , Driver.NumberPlatePadded , Driver.CarIdx , Driver.UserId , Driver.CarId , Driver.CarClass , Driver.CarClassName , Driver.TeamId , Driver.TeamName , Driver.ExternalData , Driver.CarClassOrder , Laps.LapNum , Laps.LapTime , Laps.LapTime_HR , Laps.Position , Laps.ClassPosition , Laps.Gap , Laps.GapLaps , Laps.ReplayPos , Laps.SessionTime , Laps.SectorTimes.Num , Laps.SectorTimes.Time , Laps.SectorTimes.Speed , Laps.SectorTimes.Begin , Laps.Gap_HR , FastestLap , FastestLap_HR , LapsLed , ClassLapsLed , Sector , SectorBegin , PitStops , PitStopTime , PitStopBegin , Begin , Finished , OffTrackSince , PrevTrackPct , PrevTrackPctUpdate , AirTimeCount , AirTimeAirTime , AirTimeAirTime_HR , AirTimeLastAirTime , IsFollowedDriver , CurrentLap.LapNum , CurrentLap.LapTime , CurrentLap.LapTime_HR , CurrentLap.Position , CurrentLap.ClassPosition , CurrentLap.Gap , CurrentLap.GapLaps , CurrentLap.ReplayPos , CurrentLap.SessionTime , CurrentLap.SectorTimes.Num , CurrentLap.SectorTimes.Time , CurrentLap.SectorTimes.Speed , CurrentLap.SectorTimes.Begin , CurrentLap.Gap_HR , CurrentTrackPct , TrackPct , DistanceToFollowed , Speed , Speed_kph , Prevspeed , Position , PositionLive , IntervalLive , IntervalLive_HR_rounded , GapLive_HR_rounded , ClassIntervalLive_HR , ClassGapLive_HR , GapLive , IntervalToFollowedLive , PreviousLap.LapNum , PreviousLap.LapTime , PreviousLap.LapTime_HR , PreviousLap.Position , PreviousLap.ClassPosition , PreviousLap.Gap , PreviousLap.GapLaps , PreviousLap.ReplayPos , PreviousLap.SessionTime , PreviousLap.SectorTimes.Num , PreviousLap.SectorTimes.Time , PreviousLap.SectorTimes.Speed , PreviousLap.SectorTimes.Begin , PreviousLap.Gap_HR , HighestPosition , LowestPosition , HighestClassPosition , LowestClassPosition
+2015-01-04 14:02:56.1325|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:02:57.3446|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:02:57.3526|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:02:57.3526|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:03:08.7052|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:03:38.4869|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:03:49.8756|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:03:50.3736|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:04:19.5793|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:04:44.8487|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:04:45.0877|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:04:45.6918|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:04:58.6395|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:04:59.8566|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:05:09.9182|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:05:11.2292|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:05:18.5656|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:05:19.0287|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:05:20.3717|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:05:46.1282|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:05:50.8375|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:05:57.7949|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:05:58.4769|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Christopher J Sturgeon)
+2015-01-04 14:05:58.4769|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 14:05:58.4769|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 14:06:21.1812|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:06:53.4781|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 101,457
+2015-01-04 14:06:53.5211|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:07:13.7382|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:07:44.9530|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:08:07.9313|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:08:23.4792|INFO|iRTVO.iRacingAPI|New fastest lap in Session 0 : 95,381
+2015-01-04 14:08:23.5162|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:08:25.5283|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:08:26.9834|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:08:28.8045|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:08:31.7057|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:08:37.4150|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:08:49.4767|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Frank Geiger)
+2015-01-04 14:08:49.4767|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 14:08:49.4767|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 14:09:02.8595|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:10:07.9752|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:10:13.2475|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:10:13.5275|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:10:13.9025|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:10:14.2806|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:10:14.4766|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Taylor Symonds)
+2015-01-04 14:10:14.4766|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 14:10:14.4766|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 14:10:27.1003|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:10:39.8620|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:10:56.5390|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:11:08.3317|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:11:17.7072|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:11:19.0693|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:11:30.7169|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:12:07.8761|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:12:40.5749|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:12:45.5832|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:12:53.3037|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:13:08.6235|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:13:13.0688|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:13:28.2797|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:13:36.7971|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:13:49.8099|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:13:57.1563|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:14:10.5871|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:14:11.0551|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:14:16.5344|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:14:33.6604|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:14:44.0970|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:14:48.4482|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:14:50.5554|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:15:00.2889|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:15:15.8898|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 14:15:25.4044|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:17:15.1356|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 14:17:20.1699|INFO|iRTVO.MainWindow|Trigger: Processing flagYellow
+2015-01-04 14:17:21.1420|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-04 14:17:21.3290|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-04 14:17:32.3276|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:17:34.1997|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:17:50.6887|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:17:52.9198|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:18:03.9954|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:18:27.5988|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:18:33.8701|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:18:47.5049|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:19:40.7330|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:23.5694|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:29.2337|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:20:31.8379|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:32.1659|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:44.5386|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:51.7430|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:20:52.5871|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:20:55.2072|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:21:03.4797|INFO|iRTVO.iRacingAPI|New fastest lap in Session 1 : 94,883
+2015-01-04 14:21:03.4907|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:22:21.1351|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 14:22:31.1787|INFO|iRTVO.MainWindow|Trigger: Processing flagCheckered
+2015-01-04 14:22:36.2350|INFO|iRTVO.MainWindow|Trigger: Processing flagYellow
+2015-01-04 14:22:48.7137|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:22:48.7137|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\cars.ini
+2015-01-04 14:22:51.7089|INFO|iRTVO.MainWindow|Trigger: Processing lightsReady
+2015-01-04 14:22:51.7089|INFO|iRTVO.MainWindow|Trigger: Processing flagYellow
+2015-01-04 14:23:00.6934|INFO|iRTVO.MainWindow|Trigger: Processing flagYellow
+2015-01-04 14:24:41.0331|INFO|iRTVO.MainWindow|Trigger: Processing lightsGo
+2015-01-04 14:24:42.0632|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-04 14:24:42.8592|INFO|iRTVO.MainWindow|Trigger: Processing flagGreen
+2015-01-04 14:24:46.0424|INFO|iRTVO.MainWindow|Trigger: Processing lightsOff
+2015-01-04 14:25:15.4631|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:25:17.1942|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:25:29.7379|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:26:11.9193|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:26:18.2397|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 14:26:38.6429|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 14:26:41.6410|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:26:54.1497|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:26:55.6648|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:27:05.9124|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 14:27:05.9124|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:27:32.1669|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:27:36.8782|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:27:37.0192|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:27:37.3472|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:27:38.0023|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:27:40.1084|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:28:02.4807|INFO|iRTVO.iRacingAPI|New fastest lap in Session 2 : 96,261
+2015-01-04 14:28:02.5257|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:28:25.7530|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:28:31.9933|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:29:13.3017|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:29:38.4841|INFO|iRTVO.iRacingAPI|New fastest lap in Session 2 : 96,204
+2015-01-04 14:29:38.4961|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:29:48.6057|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:29:49.2138|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:29:52.5990|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:30:21.0686|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:30:23.3307|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:30:35.0314|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:31:07.4022|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:31:27.3864|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:32:04.7165|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:32:22.1115|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:32:56.1495|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:33:44.1402|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:34:23.6505|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:34:56.3793|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:35:23.5089|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:35:23.6499|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:35:29.2642|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:35:30.2633|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 14:36:54.4821|INFO|iRTVO.iRacingAPI|New fastest lap in Session 2 : 95,436
+2015-01-04 14:36:54.5031|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:37:20.8986|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:37:22.5527|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:38:12.5676|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 14:38:12.5676|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:38:21.2710|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:38:23.7052|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:38:25.2813|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:40:23.1600|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:41:17.0221|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:42:12.4343|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:42:26.0991|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:44:36.2195|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:45:57.4351|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:45:57.6212|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:45:57.9482|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:45:58.4632|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:47:45.4963|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:49:25.9761|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:49:45.7722|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:49:49.4834|INFO|iRTVO.iRacingAPI|New fastest lap in Session 2 : 95,339
+2015-01-04 14:49:49.4884|INFO|iRTVO.MainWindow|Trigger: Processing fastestlap
+2015-01-04 14:50:19.7031|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:51:06.0208|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:52:35.7359|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:52:56.7961|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:52:57.7312|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 14:53:33.5022|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 14:53:33.5022|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 14:53:34.4823|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Stephane Frenzel)
+2015-01-04 14:53:34.4823|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 14:53:34.4823|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 14:53:34.8633|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 14:53:53.7384|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 14:55:06.3745|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 14:55:06.3745|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 14:59:39.3412|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:00:26.7959|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:03:54.9338|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:10:01.5657|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:10:44.8262|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 15:11:06.2604|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:11:06.4024|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:11:06.4024|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 15:11:07.0095|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:11:07.1495|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:11:07.1495|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 15:11:08.7866|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:11:22.8744|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:11:22.8744|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 15:11:51.6560|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:11:53.3411|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:19:37.2727|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:20:25.1334|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:21:27.2710|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:23:18.8713|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:34:09.3956|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:35:18.2855|INFO|iRTVO.MainWindow|Trigger: Processing replay
+2015-01-04 15:35:36.4765|INFO|iRTVO.MainWindow|Trigger: Processing replay
+2015-01-04 15:36:05.0252|INFO|iRTVO.MainWindow|Trigger: Processing pitIn
+2015-01-04 15:36:26.7864|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:36:42.3403|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:36:44.8664|INFO|iRTVO.MainWindow|Trigger: Processing offTrack
+2015-01-04 15:36:44.9614|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 15:38:33.2406|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:38:33.2406|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 15:38:33.4877|INFO|iRTVO.iRacingAPI|driverChange detected - new driver (Frank Geiger)
+2015-01-04 15:38:33.4877|INFO|iRTVO.iRacingAPI|driverChange - looking for external data
+2015-01-04 15:38:33.4877|INFO|iRTVO.iRacingAPI|driverChange - data ready
+2015-01-04 15:38:34.5517|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:39:41.0235|INFO|iRTVO.MainWindow|Trigger: Processing flagWhite
+2015-01-04 15:42:10.5981|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:42:10.5981|INFO|iRTVO.MainWindow|Trigger: Processing pitOut
+2015-01-04 15:42:23.5608|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 15:42:24.4959|INFO|iRTVO.MainWindow|Trigger: Processing pitOccupied
+2015-01-04 15:42:33.9064|INFO|iRTVO.MainWindow|Trigger: Processing pitEmpty
+2015-01-04 15:42:33.9064|INFO|iRTVO.MainWindow|Trigger: Processing notInWorld
+2015-01-04 15:44:54.5124|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-04 17:09:22.1963|INFO|iRTVO.App|iRTVO Build 1.3.0.22204 startup
+2015-01-04 17:09:22.2183|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 17:09:22.2323|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 17:09:22.3303|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-04 17:09:22.5943|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 17:09:22.5943|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-04 17:09:22.5943|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-04 17:09:22.6053|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-04 17:09:22.6543|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-04 17:09:23.1574|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-04 17:09:29.6287|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-04 17:09:30.5198|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-04 17:10:01.2975|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-04 17:10:31.4323|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-04 17:10:45.8961|INFO|iRTVO.MainWindow|iRTVO Closing
+2015-01-04 17:12:31.8322|INFO|iRTVO.App|iRTVO Build 1.3.0.22204 startup
+2015-01-04 17:12:31.8532|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 17:12:31.8672|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\options.ini
+2015-01-04 17:12:31.9662|INFO|iRTVO.MainWindow|iRTVO starting
+2015-01-04 17:12:32.2242|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 17:12:32.2242|INFO|iRTVO.Caching.FontCache|Added 'Arial' to FontCache
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Loading themes\VRTV\settings.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\sidepanel.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\driver.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\state.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\results.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\resultsheader.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\laptime.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\driverright.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\compare.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\grid.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\spfl.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\sppl.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\3Driver.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\TeamRadio.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\FastestLap.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\sessionname.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\standings.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\standings_chg.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\replay.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\break.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\AfterRaceInterview.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\flags.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\lights.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\ticker.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\main.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\driverpic.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\track.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\Logo.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\ovly.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\golive.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Including themes\VRTV\videos.ini
+2015-01-04 17:12:32.2242|INFO|iRTVO.CfgFile|Loading E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\tracks.ini
+2015-01-04 17:12:32.2842|INFO|iRTVO.Caching.FontCache|Added 'DejaVu Sans Mono' to FontCache
+2015-01-04 17:12:32.7722|INFO|iRTVO.Scripting|Loading script E:\downloads\VR\2014\streamingtools\sources\irtvo-1.3.0-rc10-source\iRTVO-1.3.0-rc10\iRTVO\bin\Release\scripts\helloworld.cs
+2015-01-04 17:12:34.8243|INFO|iRTVO.MainWindow|Trigger: Processing init
+2015-01-04 17:12:35.7904|WARN|iRTVO.MainWindow|Could not connect to simulation. Deferring retry...
+2015-01-04 17:13:05.8491|INFO|iRTVO.MainWindow|iRTVO Closing
